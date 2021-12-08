@@ -1,0 +1,19 @@
+{
+  "name": "back-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-tools/schema": "^8.3.1",
+    "apollo-server": "^3.5.0",
+    "graphql": "^16.1.0",
+    "graphql-subscriptions": "^2.0.0",
+    "subscriptions-transport-ws": "^0.11.0"
+  }
+}
